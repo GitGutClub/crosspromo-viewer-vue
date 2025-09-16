@@ -1,6 +1,5 @@
 # Crosspromo Assets Viewer (Docker Edition)
 
-![Crosspromo Viewer](https://via.placeholder.com/600x200?text=Crosspromo+Assets+Viewer)
 
 **Crosspromo Assets Viewer** — веб-приложение для просмотра и управления рекламными ассетами (баннеры, видео и другие файлы) с динамическим отображением размеров файлов и превью изображений.  
 
