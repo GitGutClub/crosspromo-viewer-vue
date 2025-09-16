@@ -1,0 +1,95 @@
+[
+  {
+    "Cluster": {
+      "Platform": "Android",
+      "LocalizationCode": "ru",
+      "StoreCode": "RUS",
+      "AppId": "example-app"
+    },
+    "AppDynamicData": {
+      "UserId": null,
+      "AdWaterfall": {
+        "Rewarded": [
+          {
+            "Network": "IronSourceMediation",
+            "ZoneId": "REDACTED_REWARDED_1"
+          },
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_REWARDED_X",
+            "CrosspromoData": {
+              "CrosspromoFiles": [
+                {
+                  "AdType": "Rewarded",
+                  "AdFormat": "Video",
+                  "FileSize": 6645,
+                  "Url": "https://dms-frames.pixie-creative.ru/resources-cp/Rewarded_ru.mp4"
+                },
+                {
+                  "AdType": "IconBig",
+                  "AdFormat": "Image",
+                  "FileSize": 0,
+                  "Url": "https://dms-frames.pixie-creative.ru/resources-cp/IconBig.png"
+                }
+              ],
+              "TextData": {
+                "Title": "Демо-игра"
+              },
+              "Url": "https://play.google.com/store/apps/details?id=com.example.app"
+            }
+          }
+        ],
+        "Banner": [
+          {
+            "Network": "IronSourceMediation",
+            "ZoneId": "REDACTED_BANNER_1"
+          },
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_BANNER_X",
+            "CrosspromoData": {
+              "CrosspromoFiles": [
+                {
+                  "AdType": "Banner",
+                  "AdFormat": "Image",
+                  "FileSize": 0,
+                  "Url": "https://dms-frames.pixie-creative.ru/resources-cp/Banner_320x50.png"
+                }
+              ],
+              "TextData": {
+                "Title": "Баннер демо"
+              },
+              "Url": "https://play.google.com/store/apps/details?id=com.example.app"
+            }
+          }
+        ],
+        "Interstitial": [
+          {
+            "Network": "IronSourceMediation",
+            "ZoneId": "REDACTED_INTER_1"
+          },
+          {
+            "Network": "Crosspromo",
+            "ZoneId": "REDACTED_INTER_X",
+            "CrosspromoData": {
+              "CrosspromoFiles": [
+                {
+                  "AdType": "Interstitial",
+                  "AdFormat": "Image",
+                  "FileSize": 0,
+                  "Url": "https://dms-frames.pixie-creative.ru/resources-cp/Interstitial_1080x1920.png"
+                }
+              ],
+              "TextData": {
+                "Title": "Интерстишл демо"
+              },
+              "Url": "https://play.google.com/store/apps/details?id=com.example.app"
+            }
+          }
+        ]
+      },
+      "AdPriority": "generic",
+      "MonetizationPriority": "AdsPriority"
+    }
+  }
+]
